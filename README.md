@@ -8,6 +8,8 @@ To run a 3d scene,compile and exexute the World.java under the /src/unsw/graphic
  In the basic part:
       1.press key space to activate/disable the night mode.
       2.press key shift to activate/disable the third person mode.
+      
+
  
  
  In the extension part:
