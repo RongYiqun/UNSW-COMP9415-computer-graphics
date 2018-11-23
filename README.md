@@ -14,6 +14,6 @@ To run a 3d scene,compile and exexute the World.java under the /src/unsw/graphic
  
  In the extension part:
   I implemented the following:
-       1.Make the sun move and change colour according to the time of day ->press key m to enable or disable.
+       1.Make the sun move and change colour according to the time of day (press key m to enable or disable).
        2.Add distance attenuation to the torch light.
-       3.Implement normal mapping on one of your models(terrain) ->press key n to enable or disable.
+       3.Implement normal mapping on one of the models which is terrain (press key n to enable or disable).
